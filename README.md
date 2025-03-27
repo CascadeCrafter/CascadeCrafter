@@ -1,4 +1,4 @@
-<h1 align="center">TyreseDev</h1>
+<h1 align="center">Cascade Crafter</h1>
 
 <div align="center">
   <a href="https://github.com/keyz/keyz/blame/main/thonk.svg">
